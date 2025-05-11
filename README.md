@@ -15,5 +15,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushrajput-lab&" alt="Aayushrajput-lab" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aayushrajput-lab&show_icons=true&locale=en&layout=compact" alt="Aayushrajput-lab" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aayushrajput-lab" alt="Aayushrajput-lab" /></a></p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.Aayushrajput-lab.com//Aayushrajput-lab/output/github-snake-dark.svg" />
+  <picture>
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aayushrajput-lab/Aayushrajput-lab/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Aayushrajput-lab/Aayushrajput-lab/output/github-snake.svg" />
+</picture>
   
