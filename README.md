@@ -1,5 +1,4 @@
-[![Typing SVG]https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Aseem.;A+Front-End+Developer.;An+Open+Source+Contributor.)]https://git.io/typing-svg)
-<h1>Code. Craft. Commit.</h1>
+<h1>Code. Craft. Commit.</h>
 <p>Frontend Engineer | HTML, CSS, JavaScript, React</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
