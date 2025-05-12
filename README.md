@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Aseem.;A+Front-End+Developer.;An+Open+Source+Contributor.)
 <h1>Code. Craft. Commit.</h>
 <p>Frontend Engineer | HTML, CSS, JavaScript, React</p>
 <h2>🚀 Languages and Tools I Use</h2>
