@@ -1,6 +1,6 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&vCenter=true&width=600&height=80&color=FFFFFF&lines=Hey%F0%9F%91%8B%2C+I'm+Aseem.;A+Front-End+Developer.;An+Open+Source+Contributor.)
-<h1>Code. Craft. Commit.</h>
-<p>Frontend Engineer | HTML, CSS, JavaScript, React</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=500&vCenter=true&width=600&height=80&color=FF0000&lines=Hey%F0%9F%91%8B%2C+I'm+Aseem.;A+Front-End+Developer.;An+Open+Source+Contributor.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&vCenter=true&width=600&height=80&color=FF0000&lines=Code.;Craft.;Commit.)
+<p><strong>Frontend Engineer | HTML, CSS, JavaScript, React</strong></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
